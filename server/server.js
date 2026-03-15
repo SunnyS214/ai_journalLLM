@@ -9,7 +9,7 @@ app.use(express.json())
 const journalRoutes = require("./routes/journalRoutes");
 
 app.use(cors({
-  origin: "http://localhost:5173",
+  origin: "https://aijournal-beige.vercel.app",
   credentials: true
 }));
 // routes
