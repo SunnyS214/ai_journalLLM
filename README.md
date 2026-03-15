@@ -1,4 +1,3 @@
-````
 # AI Assisted Journal System
 
 This project is a simple AI-assisted journaling system built as part of a technical assignment.
