@@ -261,15 +261,3 @@ In a real system, journal data could also be encrypted before being stored in th
 The UI in this project is intentionally simple because the main goal of the assignment is to demonstrate backend API design and LLM integration rather than advanced frontend styling.
 
 This project was built as part of a technical assignment focused on API design and practical LLM usage.
-
-```
-
-```
-
-
-```
-
-
-
-
-```
