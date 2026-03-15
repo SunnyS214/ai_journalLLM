@@ -9,7 +9,7 @@ app.use(express.json())
 const journalRoutes = require("./routes/journalRoutes");
 
 app.use(cors({
-  origin: "https://aijournal-9icqlh5jk-sunnyss-projects.vercel.app",
+  origin: "*",
   credentials: true
 }));
 // routes
