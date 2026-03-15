@@ -1,5 +1,3 @@
----
-
 ````
 # AI Assisted Journal System
 
